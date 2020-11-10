@@ -168,4 +168,5 @@ Currently none
   - added auto upgrading of arkmanager
 + 1.5 :
   - fixed arkmanager upgrade
-
++1.6 :
+  - added new Ark Server Tools Repo
